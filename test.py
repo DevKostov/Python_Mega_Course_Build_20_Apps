@@ -1,3 +1,6 @@
-colors = [11, 34, 98, 43, 45, 54, 54]
-for item in colors:
-    print(item)
+ranking = ['John', 'Sen', 'Lisa']
+
+name = input("Enter a name:")
+
+for name in ranking:
+    print(name)
